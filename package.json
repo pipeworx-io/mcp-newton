@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-newton",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Newton MCP — wraps the Newton math solver API (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-96dc5440d9c22e2a220e563dac33e7c874217fd1d32668be158474a9b0dd6932",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-dfb7c55fa9f27270e6490bde474f3a1dc7751a416bb5b309f30481a6f91d84e7",
+    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
   }
 }
